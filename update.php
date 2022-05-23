@@ -45,7 +45,7 @@ if (isset($_GET['id'])) {
 
 	?>
         <div class="container">
-		<br><br><br><br><h2>ACTUALIZAR PERSONAL</h2>
+		<br><br><br><br><h2>ACTUALIZAR CONTACTO</h2>
         <form class="row g-3" action="" method="post">
         <div class="col-md-6">
             <label for="inputNombre" class="form-label">Nombre:</label>

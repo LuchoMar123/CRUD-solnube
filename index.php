@@ -14,9 +14,9 @@
         $resultado = $conexion-> query($sql);
     ?>
     <br><div class="container">
-        <img src="logo.png" alt=""><br><br>
-        <center><h1>LISTADO DEL PERSONAL</h1><br></center>
-        <center><a class="btn btn-info" href="create.php"><b>REGISTRAR PERSONAL</b></a></center><br><br>
+        <br><br><br><br><br>
+        <center><h1>LISTADO DE CONTACTOS</h1><br></center>
+        <center><a class="btn btn-info" href="create.php"><b>REGISTRAR CONTACTO</b></a></center><br><br>
     <table class="table table-dark table-striped" border="5">
             <thead>
                 <tr>

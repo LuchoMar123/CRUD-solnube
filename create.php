@@ -33,7 +33,7 @@
     }
     ?>
     <div class="container">
-		<br><br><br><br><h2>INGRESAR PERSONAL</h2><br>
+		<br><br><br><br><h2>INGRESAR CONTACTO</h2><br>
         <form class="row g-3" action="" method="post">
         <div class="col-md-6">
             <label for="inputNombre" class="form-label">Nombre:</label>
